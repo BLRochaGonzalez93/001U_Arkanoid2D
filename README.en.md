@@ -36,9 +36,9 @@ The project includes particle systems for collisions, scoring, a lives-based def
 - Bricks are destroyed after receiving the required number of hits.
 - Playable Windows build.
 
-## Screenshots
+## Visuals
 
-![Gameplay](./Media/screenshots/gameplay-01.png)
+![Logo](./Media/screenshots/_source/arkanoid2d-generated-composite.png)
 
 ## Architecture
 
@@ -57,13 +57,13 @@ More information in:
 
 ## Recommended Code to Review
 
-`Project/Assets/Scripts/GameManager.cs`
+`Project/Assets/Scripts/GameManager.cs` ![GMScript](./Project/PRJ_Arkanoid2D/Assets/Scripts/GameManager.cs)
 
 ## Build
 
 The build is available in GitHub Releases.
 
-`Releases/Download.md`
+`Releases/Download.md` ![Release](https://github.com/BLRochaGonzalez93/U001_BrickBreaker_2D/releases/tag/U001-v1.0.0)
 
 ## Status
 

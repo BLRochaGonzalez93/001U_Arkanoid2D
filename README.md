@@ -36,7 +36,7 @@ El proyecto incorpora sistemas de partículas en las colisiones, puntuación, de
 - Destrucción de ladrillos tras recibir el número necesario de impactos.
 - Build jugable para Windows.
 
-## Capturas
+## Visuales
 
 ![Logo](./Media/screenshots/_source/arkanoid2d-generated-composite.png)
 
@@ -56,7 +56,7 @@ La lógica principal se divide en:
 `Project/Assets/Scripts/GameManager.cs` ![GMScript](./Project/PRJ_Arkanoid2D/Assets/Scripts/GameManager.cs)
 
 ## Build
-
+ 
 La build está disponible en GitHub Releases.
 
 `Releases/Download.md` ![Release](https://github.com/BLRochaGonzalez93/U001_BrickBreaker_2D/releases/tag/U001-v1.0.0)
