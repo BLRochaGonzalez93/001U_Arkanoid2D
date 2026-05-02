@@ -38,7 +38,7 @@ El proyecto incorpora sistemas de partículas en las colisiones, puntuación, de
 
 ## Capturas
 
-![Gameplay](./Media/screenshots/gameplay-01.png)
+![Logo](./Media/screenshots/_source/arkanoid2d-generated-composite.png)
 
 ## Arquitectura
 
