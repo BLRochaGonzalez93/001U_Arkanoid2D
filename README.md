@@ -51,19 +51,15 @@ La lógica principal se divide en:
 - `AnimControl` (Sistemas de particulas)
 - `GameManager` (Control de Fase)
 
-Más información en:
-
-`Docs/Architecture.md`
-
 ## Código recomendado para revisar
 
-`Project/Assets/Scripts/GameManager.cs`
+`Project/Assets/Scripts/GameManager.cs` ![GMScript](.Project/PRJ_Arkanoid2D/Assets/Scripts/GameManager.cs)
 
 ## Build
 
 La build está disponible en GitHub Releases.
 
-`Releases/Download.md`
+`Releases/Download.md` ![Release](https://github.com/BLRochaGonzalez93/U001_BrickBreaker_2D/releases/tag/U001-v1.0.0)
 
 ## Estado
 
