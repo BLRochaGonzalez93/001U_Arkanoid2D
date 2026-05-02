@@ -53,7 +53,7 @@ La lógica principal se divide en:
 
 ## Código recomendado para revisar
 
-`Project/Assets/Scripts/GameManager.cs` ![GMScript](.Project/PRJ_Arkanoid2D/Assets/Scripts/GameManager.cs)
+`Project/Assets/Scripts/GameManager.cs` ![GMScript](./Project/PRJ_Arkanoid2D/Assets/Scripts/GameManager.cs)
 
 ## Build
 
