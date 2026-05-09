@@ -38,9 +38,9 @@ The project includes collision particle systems, scoring, lives-based defeat, pr
 - Brick destruction after receiving the required number of hits.
 - Playable Windows build.
 
-## Visuals
+## Screenshots
 
-![Arkanoid2D Visual Pack](./Media/screenshots/_source/arkanoid2d-generated-composite.png)
+![Gameplay](./Media/screenshots/gameplay-01.png)
 
 ## Architecture
 
@@ -53,19 +53,21 @@ The main logic is divided into:
 - `AnimControl` — particle systems.
 - `GameManager` — global phase, score and game-state control.
 
+More information:
+
+[`Docs/Architecture.md`](./Docs/Architecture.md)
+
 ## Recommended code to review
 
-[`Project/Assets/Scripts/GameManager.cs`](./Project/PRJ_Arkanoid2D/Assets/Scripts/GameManager.cs)
+[`Project/Assets/Scripts/GameManager.cs`](./Project/Assets/Scripts/GameManager.cs)
 
 ## Build
 
 The build is available through GitHub Releases.
 
-[Download build U001-v1.0.0](https://github.com/BLRochaGonzalez93/U001_BrickBreaker_2D/releases/tag/U001-v1.0.0)
-
-More information:
-
 [`Releases/Download.md`](./Releases/Download.md)
+
+[Download build U001-v1.0.0](https://github.com/BLRochaGonzalez93/U001_BrickBreaker_2D/releases/tag/U001-v1.0.0)
 
 ## Status
 

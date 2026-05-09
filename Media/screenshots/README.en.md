@@ -2,13 +2,13 @@
 
 [English](README.en.md) | [Español](README.md)
 
-Imágenes separadas generadas para el proyecto **Arkanoid2D**.
+Separated images generated for the **Arkanoid2D** project.
 
-## Contenido
+## Contents
 
 ### original-png/
 
-Versiones PNG separadas desde el mockup original.
+PNG versions separated from the original mockup.
 
 - `arkanoid2d-logo.png`
 - `arkanoid2d-cover.png`
@@ -20,8 +20,8 @@ Versiones PNG separadas desde el mockup original.
 
 ### webp/
 
-Las mismas imágenes convertidas a `.webp` para uso en web.
+The same images converted to `.webp` for web usage.
 
 ### _source/
 
-Imagen compuesta original completa, en PNG y WEBP.
+Original complete composite image, in PNG and WEBP.

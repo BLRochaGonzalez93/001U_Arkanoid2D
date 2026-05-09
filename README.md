@@ -1,6 +1,8 @@
 # U001_BrickBreaker_2D
 
-[2022.1.4f1 en Mayo 2023] adaptacion a [6000.3.14f1 en Mayo 2026]
+[English](README.en.md) | [Español](README.md)
+
+[2022.1.4f1 en mayo de 2023] adaptación a [6000.3.14f1 en mayo de 2026]
 
 ## Resumen
 
@@ -38,28 +40,32 @@ El proyecto incorpora sistemas de partículas en las colisiones, puntuación, de
 
 ## Visuales
 
-![Logo](./Media/screenshots/_source/arkanoid2d-generated-composite.png)
+![Arkanoid2D Visual Pack](./Media/screenshots/_source/arkanoid2d-generated-composite.png)
 
 ## Arquitectura
 
 La lógica principal se divide en:
 
-- `PlayerController` (Barra)
-- `BallManager` (Pelota)
-- `BlockManager` (Ladrillo)
-- `BaseManager` (Caida al fondo)
-- `AnimControl` (Sistemas de particulas)
-- `GameManager` (Control de Fase)
+- `PlayerController` — barra controlada por el jugador.
+- `BallManager` — pelota, movimiento y rebotes.
+- `BlockManager` — ladrillos, durabilidad y destrucción.
+- `BaseManager` — detección de caída al fondo.
+- `AnimControl` — sistemas de partículas.
+- `GameManager` — control global de fase, puntuación y estado de partida.
 
 ## Código recomendado para revisar
 
-`Project/Assets/Scripts/GameManager.cs` ![GMScript](./Project/PRJ_Arkanoid2D/Assets/Scripts/GameManager.cs)
+[`Project/Assets/Scripts/GameManager.cs`](./Project/PRJ_Arkanoid2D/Assets/Scripts/GameManager.cs)
 
 ## Build
- 
+
 La build está disponible en GitHub Releases.
 
-`Releases/Download.md` ![Release](https://github.com/BLRochaGonzalez93/U001_BrickBreaker_2D/releases/tag/U001-v1.0.0)
+[Descargar build U001-v1.0.0](https://github.com/BLRochaGonzalez93/U001_BrickBreaker_2D/releases/tag/U001-v1.0.0)
+
+Más información:
+
+[`Releases/Download.md`](./Releases/Download.md)
 
 ## Estado
 
