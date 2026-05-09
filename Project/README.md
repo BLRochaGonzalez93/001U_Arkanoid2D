@@ -53,19 +53,15 @@ La lógica principal se divide en:
 - `AnimControl` — sistemas de partículas.
 - `GameManager` — control global de fase, puntuación y estado de partida.
 
-Más información en:
-
-[`Docs/Architecture.md`](./Docs/Architecture.md)
-
 ## Código recomendado para revisar
 
-[`Project/Assets/Scripts/GameManager.cs`](./Project/Assets/Scripts/GameManager.cs)
+[`Project/Assets/Scripts/GameManager.cs`](./Project/PRJ_Arkanoid2D/Assets/Scripts/GameManager.cs)
 
 ## Build
 
 La build está disponible en GitHub Releases.
 
-[`Releases/Download.md`](./Releases/Download.md)
+[`Releases/Download.md`](../Releases/Download.md)
 
 [Descargar build U001-v1.0.0](https://github.com/BLRochaGonzalez93/U001_BrickBreaker_2D/releases/tag/U001-v1.0.0)
 
