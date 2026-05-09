@@ -69,4 +69,4 @@ Playable project.
 
 ## Repository
 
-[View project repository](https://github.com/BLRochaGonzalez93/U010_Sokar/U001_BrickBreaker_2D)
+[View project repository](https://github.com/BLRochaGonzalez93/U001_BrickBreaker_2D)

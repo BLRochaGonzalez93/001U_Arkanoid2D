@@ -40,7 +40,7 @@ El proyecto incorpora sistemas de partículas en las colisiones, puntuación, de
 
 ## Capturas
 
-![Gameplay](./Media/screenshots/gameplay-01.png)
+![Gameplay](../Media/screenshots/gameplay-01.png)
 
 ## Arquitectura
 
@@ -55,7 +55,7 @@ La lógica principal se divide en:
 
 ## Código recomendado para revisar
 
-[`Project/Assets/Scripts/GameManager.cs`](./Project/PRJ_Arkanoid2D/Assets/Scripts/GameManager.cs)
+[`Project/PRJ_Arkanoid2D/Assets/Scripts/GameManager.cs`](./Project/PRJ_Arkanoid2D/Assets/Scripts/GameManager.cs)
 
 ## Build
 

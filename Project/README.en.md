@@ -40,7 +40,7 @@ The project includes collision particle systems, scoring, lives-based defeat, pr
 
 ## Screenshots
 
-![Gameplay](./Media/screenshots/gameplay-01.png)
+![Gameplay](../Media/screenshots/gameplay-01.png)
 
 ## Architecture
 
@@ -55,7 +55,7 @@ The main logic is divided into:
 
 ## Recommended code to review
 
-[`Project/Assets/Scripts/GameManager.cs`](./Project/PRJ_Arkanoid2D/Assets/Scripts/GameManager.cs)
+[`Project/PRJ_Arkanoid2D/Assets/Scripts/GameManager.cs`](./Project/PRJ_Arkanoid2D/Assets/Scripts/GameManager.cs)
 
 ## Build
 
