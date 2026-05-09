@@ -69,4 +69,4 @@ Proyecto jugable.
 
 ## Repositorio
 
-[Ver repositorio del proyecto](https://github.com/BLRochaGonzalez93/U001_BrickBreaker_2D)
+[Repositorio del proyecto](https://github.com/BLRochaGonzalez93/U001_BrickBreaker_2D)

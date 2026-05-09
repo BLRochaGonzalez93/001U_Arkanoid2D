@@ -55,7 +55,7 @@ The main logic is divided into:
 
 ## Recommended code to review
 
-[`Project/PRJ_Arkanoid2D/Assets/Scripts/GameManager.cs`](./Project/PRJ_Arkanoid2D/Assets/Scripts/GameManager.cs)
+[`PRJ_Arkanoid2D/Assets/Scripts/GameManager.cs`](./PRJ_Arkanoid2D/Assets/Scripts/GameManager.cs)
 
 ## Build
 
